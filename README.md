@@ -1,1 +1,1 @@
-# HW_1_Solution
+# Solution to Homework Assignment 1
