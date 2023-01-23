@@ -23,7 +23,7 @@ print()
 
 # print the new lists of our favorite classes
 print('ours1: will remain the same as before:\n', ours1)
-print('ours2: will change:\n',ours2)
+print('ours2: will change:\n', ours2)
 print()
 
 # When we use + operators, the values of lists 'mine' and 'yours' are being copied into a new list 'ours1'.
