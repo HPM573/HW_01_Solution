@@ -20,11 +20,11 @@ text1 = 'The value of x is ' + str(y1)
 print(text1)
 
 # text 2
-text1 = 'The value of x is ' + str(y2)
+text2 = 'The value of x is ' + str(y2)
 print(text1)
 
 # text 3
-text1 = 'The value of x is ' + y3
+text3 = 'The value of x is ' + y3
 print(text1)
 
 
